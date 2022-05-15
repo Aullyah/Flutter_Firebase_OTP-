@@ -1,16 +1,39 @@
 # flutter_otp
+Flutter project untuk melakukan verifikasi menggunakan firebase OTP. User interface aplikasi ini terinspirasi dari design milik Feggy Muhammad https://www.figma.com/community/file/1077258794034374713.
 
-A new Flutter project.
+# Penggunaan
+1. Masukan Nomor Telepon
+2. Verifikasi by google
+3. Mengirim OTP
+4. Submit OTP
 
-## Getting Started
+# Preview
+Berikut adalah preview aplikasi:<br />
+1. Login Page
+<img src="https://github.com/Aullyah/Flutter_Firebase_OTP-/blob/main/assets/images/01_Login_Page.png" width="250" height="500" />
+2. Verifikasi by google
+<img src="https://github.com/Aullyah/Flutter_Firebase_OTP-/blob/main/assets/images/02_Verification.png" width="250" height="500" />
+3. Submit OTP
+<img src="https://github.com/Aullyah/Flutter_Firebase_OTP-/blob/main/assets/images/03_OTP_Page.png" width="250" height="500" />
 
-This project is a starting point for a Flutter application.
+# Instalasi
+1. Clone repository
+```
+git clone https://github.com/Aullyah/flutter_todo_app.git
+```
 
-A few resources to get you started if this is your first Flutter project:
+2. Import package
+```
+flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+3.Jalankan program
+```
+flutter run
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+note: Anda harus mendaftarkan aplikasi anda pada firebase agar dapat menjalankan aplikasi ini, silahkan akses salah satu link berikut
+- https://firebase.google.com/docs/android/setup
+- https://www.digitalocean.com/community/tutorials/flutter-firebase-setup
+
+
