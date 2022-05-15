@@ -2,7 +2,7 @@
 Flutter project untuk melakukan verifikasi menggunakan firebase OTP. User interface aplikasi ini terinspirasi dari design milik Feggy Muhammad https://www.figma.com/community/file/1077258794034374713.
 
 # Penggunaan
-1. Masukan Nomor Telepon
+1. Masukan Nomor Telepon (sesuaikan format kode negara)
 2. Verifikasi by google
 3. Mengirim OTP
 4. Submit OTP
