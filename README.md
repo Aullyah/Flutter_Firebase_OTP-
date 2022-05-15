@@ -19,7 +19,7 @@ Berikut adalah preview aplikasi:<br />
 # Instalasi
 1. Clone repository
 ```
-git clone https://github.com/Aullyah/flutter_todo_app.git
+git clone https://github.com/Aullyah/Flutter_Firebase_OTP-.git
 ```
 
 2. Import package
